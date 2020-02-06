@@ -3,6 +3,7 @@ Marketing campaigns and Session Data
 
 
 The task is to provide the detail insights into the different marketing campaigns in a market.
+
 a). Overview of entire market’s development and the different campaigns and summarize the most important findings.
 
 b). Assess the development of the quality of traffic. How is the overall development and how does each campaign evolve?
